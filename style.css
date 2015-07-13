@@ -16,6 +16,7 @@ header h3{
 	border-bottom: 3px solid #666 ;
 	color: #8E1700;
 	padding-bottom: 5px;
+	font-size: 24px;
 
 }
 .duties-list-item{
@@ -30,12 +31,31 @@ header h3{
 	margin-bottom: 20px;
 	
 }
+a {
+	color: #000;
+}
 .skills-list{
-	background-color: #ddd;
+	background-image: url('http://previewcf.turbosquid.com/Preview/2014/08/01__22_20_40/274a_tile_Paper-Yellow-T2.jpg7a36bc3e-018e-40e0-8891-66e977d908daLarge.jpg');
+
 	border-radius: 5px;
 	padding: 10px 5px 15px 25px;
 	box-shadow: 2px 2px 4px #555;
 	margin-bottom: 20px;
-	
+
+}
+.item-header{
+	margin-left: 25px;
+}
+.title{
+	font-size: 18px;
+
+}
+.education-heading{
+	font-size: 18px;
+	margin-left: 25px;
+}
+.company{
+	font-size: 20px;
+	font-weight: bold;
 
 }
