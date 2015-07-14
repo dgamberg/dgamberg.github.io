@@ -1,6 +1,6 @@
 
 body{
-	background-image: url('http://www.commentnation.com/backgrounds/images/white_paper_texture_background_seamless_pattern.jpg');
+	background-image: url('http://kellypaper.com/shop/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/a/paper-hammermill-tan_1.jpg');
 /*
 	background-image: url('http://previewcf.turbosquid.com/Preview/2014/08/01__22_20_40/274a_tile_Paper-Yellow-T2.jpg7a36bc3e-018e-40e0-8891-66e977d908daLarge.jpg');
 	*/
@@ -21,10 +21,6 @@ header h3{
 }
 .duties-list-item{
 	background-image: url('http://previewcf.turbosquid.com/Preview/2014/08/01__22_20_40/274a_tile_Paper-Yellow-T2.jpg7a36bc3e-018e-40e0-8891-66e977d908daLarge.jpg');
-	/*background-image: url('http://www.commentnation.com/backgrounds/images/white_paper_texture_background_seamless_pattern.jpg');
-*/
-
-	/*background-color: #ddd;*/
 	border-radius: 5px;
 	padding: 10px 5px 5px 0px;
 	box-shadow: 2px 2px 4px #555;
@@ -37,7 +33,6 @@ a {
 }
 .skills-list{
 	background-image: url('http://previewcf.turbosquid.com/Preview/2014/08/01__22_20_40/274a_tile_Paper-Yellow-T2.jpg7a36bc3e-018e-40e0-8891-66e977d908daLarge.jpg');
-
 	border-radius: 5px;
 	padding: 10px 5px 15px 25px;
 	box-shadow: 2px 2px 4px #555;
