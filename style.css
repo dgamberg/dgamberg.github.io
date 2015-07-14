@@ -1,6 +1,6 @@
 
 body{
-	background-color: #ccc;
+	background-color: #ECECED;
 	/*background-image: url('http://previewcf.turbosquid.com/Preview/2014/08/01__22_20_40/274a_tile_Paper-Yellow-T2.jpg7a36bc3e-018e-40e0-8891-66e977d908daLarge.jpg');
 	*/
 
@@ -9,17 +9,17 @@ header{
 	text-align: center;
 }
 header h3{
-	color: #8E1700;
+	color: #051864;
 }
 .area-title{
 	border-bottom: 3px solid #666 ;
-	color: #8E1700;
+	color: #051864;
 	padding-bottom: 5px;
 	font-size: 24px;
 
 }
 .duties-list-item{
-	background-color: #f4e2ba;
+	background-color: #e3e5f9;
 	/*url('http://previewcf.turbosquid.com/Preview/2014/08/01__22_20_40/274a_tile_Paper-Yellow-T2.jpg7a36bc3e-018e-40e0-8891-66e977d908daLarge.jpg');*/
 	border-radius: 5px;
 	padding: 10px 5px 5px 0px;
