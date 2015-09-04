@@ -11,12 +11,15 @@ header{
 header h3{
 	color: #263B93;
 }
+li{
+	line-height: 18px;
+}
 .area-title{
 	border-bottom: 3px solid #666 ;
 	color: #263B93;
 	padding-bottom: 5px;
 	font-size: 24px;
-
+    text-shadow: 1px 1px 5px #bfbfbf;
 }
 .duties-list-item{
 	background-color: #FAFAFA;
