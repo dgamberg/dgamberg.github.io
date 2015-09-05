@@ -9,7 +9,7 @@ body{
 
 	
 	background-image: url('main-back.jpg');*/
-	 background: linear-gradient( #665858, #A2988A);
+	 background: linear-gradient( #586665, #665858, #A2988A);
 	font-family: 'PT Sans', sans-serif;
 	font-size: 16px;
 }
